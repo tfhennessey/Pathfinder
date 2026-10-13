@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "miflet",
+    "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/miflet_1791913525040_1gwxrd.webp",
+    "collection": "Default",
+    "tags": [
+      "monster"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/miflet_1791913525040_1gwxrd-6b3ee113.webp",
+    "id": "token-1791913525067-kcmben",
+    "createdAt": 1791913525067,
+    "modifiedAt": 1791913607559,
+    "statblockPath": "Monsters/bestiary-1/mitflit.md"
+  }
+}

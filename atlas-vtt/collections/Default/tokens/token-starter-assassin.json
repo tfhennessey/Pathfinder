@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "name": "Assassin",
+    "imagePath": "atlas-vtt/assets/Assassin_1791901587886_ghi8ed.webp",
+    "collection": "Default",
+    "tags": [
+      "Class"
+    ],
+    "showRing": true,
+    "type": "token",
+    "id": "token-starter-assassin",
+    "createdAt": 1791901587886,
+    "modifiedAt": 1791901587886,
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Assassin_1791901587886_ghi8ed-5dec0588.webp"
+  }
+}

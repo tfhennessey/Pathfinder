@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "BOSS SKRAWNG",
+    "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/BOSS_SKRAWNG_1791920119867_k0rjsg.webp",
+    "collection": "Default",
+    "tags": [
+      "monster"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/BOSS_SKRAWNG_1791920119867_k0rjsg-4703e62f.webp",
+    "id": "token-1791920120101-hj37ap",
+    "createdAt": 1791920120101,
+    "modifiedAt": 1791920251186
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "vampric mist",
+    "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/vampric_mist_1791920119705_b0x59m.webp",
+    "collection": "Default",
+    "tags": [
+      "monster"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/vampric_mist_1791920119705_b0x59m-8856a513.webp",
+    "id": "token-1791920120101-g6hegb",
+    "createdAt": 1791920120101,
+    "modifiedAt": 1791920250805,
+    "statblockPath": "Monsters/bestiary-2/vampiric-mist.md"
+  }
+}

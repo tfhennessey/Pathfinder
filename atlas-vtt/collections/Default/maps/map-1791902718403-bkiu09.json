@@ -1,0 +1,21 @@
+{
+  "id": "map-1791902718403-bkiu09",
+  "name": "level 1 Gauntlight Ruins",
+  "mapFilePath": "atlas-vtt/assets/level_1_Gauntlight_Ruins_1791902718396_3eqhhj.png",
+  "tags": [],
+  "collection": "Default",
+  "createdAt": 1791902718403,
+  "modifiedAt": 1791902718403,
+  "atlasRecord": {
+    "format": 1,
+    "type": "map",
+    "name": "level 1 Gauntlight Ruins",
+    "mapFilePath": "atlas-vtt/assets/level_1_Gauntlight_Ruins_1791902718396_3eqhhj.png",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/level_1_Gauntlight_Ruins_1791902718396_3eqhhj-4587c03f.webp",
+    "id": "map-1791902718403-bkiu09",
+    "createdAt": 1791902718403,
+    "modifiedAt": 1791902718403
+  }
+}

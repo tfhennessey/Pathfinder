@@ -1,0 +1,27 @@
+{
+  "id": "map-1791902331373-p1515o",
+  "name": "Otari",
+  "mapFilePath": "atlas-vtt/assets/Otari_1791902331366_wuyhlk.png",
+  "tags": [
+    "Otari",
+    "Town"
+  ],
+  "collection": "Default",
+  "createdAt": 1791902331373,
+  "modifiedAt": 1791902331373,
+  "atlasRecord": {
+    "format": 1,
+    "type": "map",
+    "name": "Otari",
+    "mapFilePath": "atlas-vtt/assets/Otari_1791902331366_wuyhlk.png",
+    "collection": "Default",
+    "tags": [
+      "Otari",
+      "Town"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Otari_1791902331366_wuyhlk-2ba07689.webp",
+    "id": "map-1791902331373-p1515o",
+    "createdAt": 1791902331373,
+    "modifiedAt": 1791902331373
+  }
+}

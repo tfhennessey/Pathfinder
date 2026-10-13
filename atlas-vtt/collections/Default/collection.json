@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "uid": "collection-2faaveaf735",
+  "version": 1,
+  "description": "Default collection",
+  "tags": {
+    "tokens:class": {
+      "id": "class",
+      "name": "Class",
+      "group": "tokens"
+    },
+    "maps:otari": {
+      "id": "otari",
+      "name": "Otari",
+      "group": "maps"
+    },
+    "maps:town": {
+      "id": "town",
+      "name": "Town",
+      "group": "maps"
+    },
+    "tokens:monster": {
+      "id": "monster",
+      "name": "monster",
+      "group": "tokens"
+    }
+  },
+  "settings": {
+    "conditions": [
+      {
+        "id": "pathfinder2e-blinded",
+        "name": "Blinded",
+        "color": "#475569",
+        "icon": "blindfold",
+        "effect": "blinded"
+      },
+      {
+        "id": "pathfinder2e-clumsy",
+        "name": "Clumsy",
+        "color": "#ca8a04",
+        "icon": "falling",
+        "valued": true
+      },
+      {
+        "id": "pathfinder2e-concealed",
+        "name": "Concealed",
+        "color": "#64748b",
+        "icon": "fog"
+      },
+      {
+        "id": "pathfinder2e-confused",
+        "name": "Confused",
+        "color": "#c026d3",
+        "icon": "spiral-bloom"
+      },
+      {
+        "id": "pathfinder2e-controlled",
+        "name": "Controlled",
+        "color": "#9333ea",
+        "icon": "puppet"
+      },
+      {
+        "id": "pathfinder2e-dazzled",
+        "name": "Dazzled",
+        "color": "#facc15",
+        "icon": "sun"
+      },
+      {
+        "id": "pathfinder2e-deafened",
+        "name": "Deafened",
+        "color": "#0891b2",
+        "icon": "hearing-disabled"
+      },
+      {
+        "id": "pathfinder2e-doomed",
+        "name": "Doomed",
+        "color": "#1f2937",
+        "icon": "grim-reaper",
+        "valued": true
+      },
+      {
+        "id": "pathfinder2e-drained",
+        "name": "Drained",
+        "color": "#be123c",
+        "icon": "life-tap",
+        "valued": true
+      },
+      {
+        "id": "pathfinder2e-dying",
+        "name": "Dying",
+        "color": "#991b1b",
+        "icon": "skull",
+        "valued": true
+      },
+      {
+        "id": "pathfinder2e-encumbered",
+        "name": "Encumbered",
+        "color": "#78716c",
+        "icon": "weight"
+      },
+      {
+        "id": "pathfinder2e-enfeebled",
+        "name": "Enfeebled",
+        "color": "#b45309",
+        "icon": "arm-sling",
+        "valued": true
+      },
+      {
+        "id": "pathfinder2e-fascinated",
+        "name": "Fascinated",
+        "color": "#ec4899",
+        "icon": "eye"
+      },
+      {
+        "id": "pathfinder2e-fatigued",
+        "name": "Fatigued",
+        "color": "#92400e",
+        "icon": "tired-eye"
+      },
+      {
+        "id": "pathfinder2e-fleeing",
+        "name": "Fleeing",
+        "color": "#7c3aed",
+        "icon": "run"
+      },
+      {
+        "id": "pathfinder2e-frightened",
+        "name": "Frightened",
+        "color": "#6d28d9",
+        "icon": "terror",
+        "valued": true
+      },
+      {
+        "id": "pathfinder2e-grabbed",
+        "name": "Grabbed",
+        "color": "#ea580c",
+        "icon": "grab"
+      },
+      {
+        "id": "pathfinder2e-hidden",
+        "name": "Hidden",
+        "color": "#475569",
+        "icon": "hidden"
+      },
+      {
+        "id": "pathfinder2e-immobilized",
+        "name": "Immobilized",
+        "color": "#0f766e",
+        "icon": "spider-web"
+      },
+      {
+        "id": "pathfinder2e-invisible",
+        "name": "Invisible",
+        "color": "#c7d2fe",
+        "icon": "invisible",
+        "effect": "invisible"
+      },
+      {
+        "id": "pathfinder2e-off-guard",
+        "name": "Off-Guard",
+        "color": "#dc2626",
+        "icon": "cracked-shield"
+      },
+      {
+        "id": "pathfinder2e-paralyzed",
+        "name": "Paralyzed",
+        "color": "#38bdf8",
+        "icon": "frozen-body"
+      },
+      {
+        "id": "pathfinder2e-persistent-damage",
+        "name": "Persistent Damage",
+        "color": "#f97316",
+        "icon": "flame"
+      },
+      {
+        "id": "pathfinder2e-petrified",
+        "name": "Petrified",
+        "color": "#78716c",
+        "icon": "stoned-skull"
+      },
+      {
+        "id": "pathfinder2e-prone",
+        "name": "Prone",
+        "color": "#d97706",
+        "icon": "foot-trip"
+      },
+      {
+        "id": "pathfinder2e-quickened",
+        "name": "Quickened",
+        "color": "#22c55e",
+        "icon": "lightning"
+      },
+      {
+        "id": "pathfinder2e-restrained",
+        "name": "Restrained",
+        "color": "#0d9488",
+        "icon": "imprisoned"
+      },
+      {
+        "id": "pathfinder2e-sickened",
+        "name": "Sickened",
+        "color": "#65a30d",
+        "icon": "vomiting",
+        "valued": true
+      },
+      {
+        "id": "pathfinder2e-slowed",
+        "name": "Slowed",
+        "color": "#0284c7",
+        "icon": "snail",
+        "valued": true
+      },
+      {
+        "id": "pathfinder2e-stunned",
+        "name": "Stunned",
+        "color": "#fbbf24",
+        "icon": "knocked-out-stars",
+        "valued": true
+      },
+      {
+        "id": "pathfinder2e-stupefied",
+        "name": "Stupefied",
+        "color": "#a855f7",
+        "icon": "brain-freeze",
+        "valued": true
+      },
+      {
+        "id": "pathfinder2e-unconscious",
+        "name": "Unconscious",
+        "color": "#1e3a8a",
+        "icon": "sleepy"
+      },
+      {
+        "id": "pathfinder2e-undetected",
+        "name": "Undetected",
+        "color": "#94a3b8",
+        "icon": "ghost",
+        "effect": "undetected"
+      },
+      {
+        "id": "pathfinder2e-unnoticed",
+        "name": "Unnoticed",
+        "color": "#334155",
+        "icon": "hood",
+        "effect": "undetected"
+      },
+      {
+        "id": "pathfinder2e-wounded",
+        "name": "Wounded",
+        "color": "#b91c1c",
+        "icon": "bleeding-wound",
+        "valued": true
+      }
+    ],
+    "resources": [
+      {
+        "key": "hp",
+        "name": "HP",
+        "field": "hp",
+        "direction": "drains",
+        "color": "#22c55e",
+        "defeatedWhenSpent": true,
+        "visibleToPlayers": false
+      }
+    ],
+    "gridDefaults": {
+      "unitType": "feet",
+      "unitDistance": 5,
+      "measurementMode": "metric",
+      "diagonalRule": "alternating",
+      "abstractRangeBands": []
+    },
+    "defaultWidgets": {
+      "hpBar": true,
+      "stressBar": false
+    },
+    "dice": {
+      "defaultRoll": "1d20",
+      "crit": "natural"
+    },
+    "customCreatureFilters": [],
+    "hiddenCreatureFilters": [],
+    "systemPresetId": "builtin:pathfinder2e",
+    "lootBases": []
+  },
+  "createdAt": 0,
+  "modifiedAt": 1791907299798
+}

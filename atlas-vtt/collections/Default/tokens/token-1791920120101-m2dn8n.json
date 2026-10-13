@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Giant solifugid",
+    "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/Giant_solifugid_1791920119905_lgzcjo.webp",
+    "collection": "Default",
+    "tags": [
+      "monster"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Giant_solifugid_1791920119905_lgzcjo-da0e1a5f.webp",
+    "id": "token-1791920120101-m2dn8n",
+    "createdAt": 1791920120101,
+    "modifiedAt": 1791920252212,
+    "statblockPath": "Monsters/bestiary-2/giant-solifugid.md"
+  }
+}

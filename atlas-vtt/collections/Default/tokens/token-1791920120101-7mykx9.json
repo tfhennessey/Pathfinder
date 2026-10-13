@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "giant fly",
+    "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/giant_fly_1791920119948_5tbmt0.webp",
+    "collection": "Default",
+    "tags": [
+      "monster"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/giant_fly_1791920119948_5tbmt0-c2af48b6.webp",
+    "id": "token-1791920120101-7mykx9",
+    "createdAt": 1791920120101,
+    "modifiedAt": 1791920251685,
+    "statblockPath": "Monsters/bestiary-2/giant-fly.md"
+  }
+}
