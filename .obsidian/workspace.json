@@ -37,9 +37,9 @@
                 "activeTabId": "tab-1791920381872-7mtdcc",
                 "viewportPerTab": {
                   "tab-1791920381872-7mtdcc": {
-                    "centerX": 2053.8717177365993,
-                    "centerY": 5046.960953635229,
-                    "scale": 2.223946624235432
+                    "centerX": 2502.189498575124,
+                    "centerY": 1918.9919287117423,
+                    "scale": 0.7418102785453936
                   }
                 }
               },
@@ -301,11 +301,11 @@
                     "filePath": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
                     "frozen": false,
                     "camera": {
-                      "centerX": 2053.8717177365993,
-                      "centerY": 5046.960953635229,
-                      "scale": 2.223946624235432,
-                      "width": 1155.6032739245877,
-                      "height": 615.1226765481852
+                      "centerX": 2502.189498575124,
+                      "centerY": 1918.9919287117423,
+                      "scale": 0.7418102785453936,
+                      "width": 3464.497694800725,
+                      "height": 1844.1372943530707
                     }
                   },
                   "icon": "presentation",
