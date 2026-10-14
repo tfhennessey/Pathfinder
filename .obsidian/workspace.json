@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "9889703fda90ed88",
+            "id": "5ecfe592a0c92906",
             "type": "leaf",
             "state": {
               "type": "atlas-vtt",
@@ -27,24 +27,52 @@
                 "mapFilePath": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
                 "tabs": [
                   {
-                    "id": "tab-1791920381872-7mtdcc",
+                    "id": "tab-1791990136103-71nkv3",
                     "filePath": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
                     "displayName": "level1",
                     "isLoaded": true,
                     "isDirty": false
                   }
                 ],
-                "activeTabId": "tab-1791920381872-7mtdcc",
+                "activeTabId": "tab-1791990136103-71nkv3",
                 "viewportPerTab": {
-                  "tab-1791920381872-7mtdcc": {
-                    "centerX": 2502.189498575124,
-                    "centerY": 1918.9919287117423,
-                    "scale": 0.7418102785453936
+                  "tab-1791990136103-71nkv3": {
+                    "centerX": 2131.2556448914834,
+                    "centerY": 3864.7017097916064,
+                    "scale": 0.3107917484335511
                   }
                 }
               },
               "icon": "map",
               "title": "Atlas: level1.atlasmap"
+            }
+          },
+          {
+            "id": "c6631bf4bfbc8147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gauntlight Ruins"
+            }
+          },
+          {
+            "id": "1ba99bb7e6806ecf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gauntlight Ruins"
             }
           },
           {
@@ -217,8 +245,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -229,6 +257,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "eed6be2b9ebc0e1f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
@@ -279,55 +317,44 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "floating": {
-    "id": "744eb73932abeb72",
-    "type": "floating",
-    "children": [
-      {
-        "id": "52f0ada605186962",
-        "type": "window",
-        "children": [
-          {
-            "id": "9764d47e081c988f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4cf300e68843efd3",
-                "type": "leaf",
-                "state": {
-                  "type": "atlas-vtt-local-player",
-                  "state": {
-                    "tabId": "tab-1791920381872-7mtdcc",
-                    "filePath": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
-                    "frozen": false,
-                    "camera": {
-                      "centerX": 2502.189498575124,
-                      "centerY": 1918.9919287117423,
-                      "scale": 0.7418102785453936,
-                      "width": 3464.497694800725,
-                      "height": 1844.1372943530707
-                    }
-                  },
-                  "icon": "presentation",
-                  "title": "Player view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 10,
-        "y": 10,
-        "width": 1720,
-        "height": 704,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "9889703fda90ed88",
+  "active": "5ecfe592a0c92906",
   "lastOpenFiles": [
+    "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
+    "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
     "Monsters/Readme.md",
+    "compendium/spells/bane.md",
+    "MITFLITS.md",
+    "Campaign/Adventures/Abomination Vaults/Maps/Otari.png",
+    "Rules/abilities/at-will-spells.md",
+    "Rules/actions/affix-a-talisman.md",
+    "Rules/actions/accidental-shot-g-g.md",
+    "Rules/assets/img/covers/SoM.webp",
+    "Rules/assets/img/covers/LOWG.webp",
+    "Rules/assets/img/covers/LOGM.webp",
+    "Rules/assets/img/covers/GMG.webp",
+    "Rules/assets/img/covers/CRB.webp",
+    "Rules/assets/img/two_actions.svg",
+    "Rules/assets/img/three_actions.svg",
+    "Rules/assets/img/single_action.svg",
+    "Rules/assets/img/reaction.svg",
+    "Rules/core-rulebook/chapter-11-crafting-treasure.md",
+    "Rules/gamemastery-guide/chapter-2-tools.md",
+    "Rules/gamemastery-guide/chapter-5-npc-gallery.md",
+    "Rules/gamemastery-guide/chapter-4-variant-rules.md",
+    "Rules/core-rulebook/chapter-3-classes.md",
+    "Rules/tables/ability-quirks-da.md",
+    "Rules/tables/adventuring-gear.md",
+    "Rules/tables/alchemical-gear.md",
+    "Rules/tables/animal-prices-lotg.md",
+    "Rules/tables/animals.md",
+    "Rules/tables/critical-hit-deck-bludgeoning-chd.md",
+    "Rules/tables/dc-adjustments.md",
+    "Rules/tables/flexible-spellcaster-spells-per-day-som.md",
+    "Rules/tables/xp-awards.md",
+    "Rules/tables/the-nine-alignments.md",
+    "Rules/tables/mixed-drink-effects-ooa1.md",
+    "Rules/tables/income-earned.md",
+    "Rules/tables/general-feats.md",
     "atlas-vtt/collections/Default/tokens/token-1791920120101-j39v7w.json",
     "atlas-vtt/collections/Default/tokens/token-1791920120101-rusa2v.json",
     "atlas-vtt/collections/Default/tokens/token-1791920120101-7mykx9.json",
@@ -337,41 +364,6 @@
     "atlas-vtt/collections/Default/tokens/token-1791920120101-e4krgg.json",
     "atlas-vtt/collections/Default/tokens/token-1791920120101-pk69iu.json",
     "atlas-vtt/collections/Default/tokens/token-1791920120101-g6hegb.json",
-    "atlas-vtt/assets/thumbnails/slurk_1791920120040_h0pkd2-7e5df472.webp",
-    "atlas-vtt/collections/Default/tokens/Monsters/slurk_1791920120040_h0pkd2.webp",
-    "atlas-vtt/assets/thumbnails/giant_maggot_1791920119976_ukpos3-7f185d30.webp",
-    "atlas-vtt/collections/Default/tokens/Monsters/giant_maggot_1791920119976_ukpos3.webp",
-    "atlas-vtt/assets/thumbnails/giant_fly_1791920119948_5tbmt0-c2af48b6.webp",
-    "atlas-vtt/collections/Default/tokens/Monsters/giant_fly_1791920119948_5tbmt0.webp",
-    "atlas-vtt/assets/thumbnails/Giant_solifugid_1791920119905_lgzcjo-da0e1a5f.webp",
-    "atlas-vtt/collections/Default/tokens/Monsters/Giant_solifugid_1791920119905_lgzcjo.webp",
-    "atlas-vtt/assets/thumbnails/BOSS_SKRAWNG_1791920119867_k0rjsg-4703e62f.webp",
-    "atlas-vtt/collections/Default/tokens/Monsters/BOSS_SKRAWNG_1791920119867_k0rjsg.webp",
-    "Monsters/Readme-Kingmaker.md",
-    "Monsters/Kingmaker-Render-Tester.md",
-    "Monsters/Abomination Vaults/Corpselight.md",
-    "Monsters/Template-2ETools-Monster-Handlebar.md",
-    "Monsters/trouble-in-otari/xulgath-boss.md",
-    "Monsters/trouble-in-otari/orc-trooper.md",
-    "Monsters/trouble-in-otari/orc-scrapper.md",
-    "Monsters/trouble-in-otari/orc-commander.md",
-    "Monsters/trouble-in-otari/kobold-trapmaster.md",
-    "Monsters/trouble-in-otari/hobgoblin-warrior.md",
-    "Monsters/trouble-in-otari/goblin-igniter.md",
-    "Monsters/trouble-in-otari/giant-spider.md",
-    "Monsters/trouble-in-otari/drow-warrior.md",
-    "Monsters/trouble-in-otari/drow-sneak.md",
-    "Monsters/trouble-in-otari/dragon-wyrmling-green.md",
-    "Monsters/trouble-in-otari/bugbear-marauder.md",
-    "Monsters/trouble-in-otari",
-    "Monsters/gm-guide/zealot-of-asmodeus.md",
-    "Monsters/gm-guide/watch-officer.md",
-    "Monsters/gm-guide/warden.md",
-    "Monsters/gm-guide/urchin.md",
-    "Monsters/gm-guide/prophet.md",
-    "Monsters/gm-guide/troubadour.md",
-    "Monsters/gm-guide/tracker.md",
-    "Monsters/gm-guide/torchbearer.md",
     "Untitled.canvas"
   ]
 }
