@@ -21,30 +21,14 @@
             "id": "5ecfe592a0c92906",
             "type": "leaf",
             "state": {
-              "type": "atlas-vtt",
+              "type": "markdown",
               "state": {
-                "file": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
-                "mapFilePath": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
-                "tabs": [
-                  {
-                    "id": "tab-1791990136103-71nkv3",
-                    "filePath": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
-                    "displayName": "level1",
-                    "isLoaded": true,
-                    "isDirty": false
-                  }
-                ],
-                "activeTabId": "tab-1791990136103-71nkv3",
-                "viewportPerTab": {
-                  "tab-1791990136103-71nkv3": {
-                    "centerX": 2131.2556448914834,
-                    "centerY": 3864.7017097916064,
-                    "scale": 0.3107917484335511
-                  }
-                }
+                "file": "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map",
-              "title": "Atlas: level1.atlasmap"
+              "icon": "lucide-file",
+              "title": "Gauntlight Ruins"
             }
           },
           {
@@ -59,34 +43,6 @@
               },
               "icon": "lucide-file",
               "title": "Gauntlight Ruins"
-            }
-          },
-          {
-            "id": "1ba99bb7e6806ecf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gauntlight Ruins"
-            }
-          },
-          {
-            "id": "2a94c7076fefc955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monsters/Readme.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Readme"
             }
           }
         ],
@@ -301,7 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 525.6484375
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,24 +275,33 @@
   },
   "active": "5ecfe592a0c92906",
   "lastOpenFiles": [
+    "Campaign/Adventures/Abomination Vaults/z_pdf/Pathfinder 2E - Abomination Vault - AP 1 of 3.pdf",
     "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
+    "compendium/character/archetypes/alkenstar-agent-ooa1.md",
+    "atlas-vtt/collections/Default/tokens/Monsters/vampric_mist_1791920119705_b0x59m.webp",
+    "atlas-vtt/collections/Default/tokens/Monsters/BOSS_SKRAWNG_1791920119867_k0rjsg.webp",
+    "atlas-vtt/collections/Default/tokens/Monsters/corpselight_1791920119778_d3uqyb.webp",
+    "atlas-vtt/collections/Default/tokens/Monsters/flickerwhips_1791920119755_1dzy33.webp",
+    "atlas-vtt/collections/Default/tokens/Monsters/giant_fly_1791920119948_5tbmt0.webp",
+    "atlas-vtt/collections/Default/tokens/Monsters/giant_maggot_1791920119976_ukpos3.webp",
+    "Campaign/ADVENT~1/ABOMIN~1/z_pdf",
+    "Campaign/Adventures/Abomination Vaults/z_pdf/Pathfinder 2E - Abomination Vault - AP 1 of 3 - Ruins Of -- Paizo Inc -- PF2E - Abomination Vault - AP 1 of 3 -- Paizo Inc_ -- d3a1b0b0a964227d848371d022cf6461 -- Anna’s Archive.pdf",
+    "Campaign/Adventures/Abomination Vaults/z_pdf",
+    "compendium/character/archetypes/firebrand-braggart-locg.md",
+    "compendium/character/archetypes/firework-technician-g-g.md",
+    "compendium/character/archetypes/druid.md",
+    "compendium/character/archetypes/assassin-apg.md",
+    "Monsters/_attachments/pf2e-settlement.png",
+    "Monsters/_attachments/pf2e-quest-icon.png",
+    "Monsters/_attachments/pf2e-quest.png",
+    "Monsters/_attachments/pf2e-misc.png",
     "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
     "Monsters/Readme.md",
     "compendium/spells/bane.md",
     "MITFLITS.md",
-    "Campaign/Adventures/Abomination Vaults/Maps/Otari.png",
     "Rules/abilities/at-will-spells.md",
     "Rules/actions/affix-a-talisman.md",
     "Rules/actions/accidental-shot-g-g.md",
-    "Rules/assets/img/covers/SoM.webp",
-    "Rules/assets/img/covers/LOWG.webp",
-    "Rules/assets/img/covers/LOGM.webp",
-    "Rules/assets/img/covers/GMG.webp",
-    "Rules/assets/img/covers/CRB.webp",
-    "Rules/assets/img/two_actions.svg",
-    "Rules/assets/img/three_actions.svg",
-    "Rules/assets/img/single_action.svg",
-    "Rules/assets/img/reaction.svg",
     "Rules/core-rulebook/chapter-11-crafting-treasure.md",
     "Rules/gamemastery-guide/chapter-2-tools.md",
     "Rules/gamemastery-guide/chapter-5-npc-gallery.md",
@@ -350,20 +315,11 @@
     "Rules/tables/critical-hit-deck-bludgeoning-chd.md",
     "Rules/tables/dc-adjustments.md",
     "Rules/tables/flexible-spellcaster-spells-per-day-som.md",
-    "Rules/tables/xp-awards.md",
-    "Rules/tables/the-nine-alignments.md",
-    "Rules/tables/mixed-drink-effects-ooa1.md",
-    "Rules/tables/income-earned.md",
-    "Rules/tables/general-feats.md",
     "atlas-vtt/collections/Default/tokens/token-1791920120101-j39v7w.json",
     "atlas-vtt/collections/Default/tokens/token-1791920120101-rusa2v.json",
     "atlas-vtt/collections/Default/tokens/token-1791920120101-7mykx9.json",
     "atlas-vtt/collections/Default/tokens/token-1791920120101-m2dn8n.json",
     "atlas-vtt/collections/Default/tokens/token-1791920120101-hj37ap.json",
-    "atlas-vtt/collections/Default/tokens/token-1791920120101-3su1k7.json",
-    "atlas-vtt/collections/Default/tokens/token-1791920120101-e4krgg.json",
-    "atlas-vtt/collections/Default/tokens/token-1791920120101-pk69iu.json",
-    "atlas-vtt/collections/Default/tokens/token-1791920120101-g6hegb.json",
     "Untitled.canvas"
   ]
 }
