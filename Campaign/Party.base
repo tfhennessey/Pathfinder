@@ -1,0 +1,62 @@
+filters:
+  or:
+    - file.hasTag("pc")
+    - file.inFolder("Campaign/Characters")
+
+properties:
+  file.name:
+    displayName: Character
+  hp_current:
+    displayName: HP now
+  hp_max:
+    displayName: HP max
+  temp_hp:
+    displayName: Temp
+  ac:
+    displayName: AC
+  fort:
+    displayName: Fort
+  ref:
+    displayName: Ref
+  will:
+    displayName: Will
+  perception:
+    displayName: Percep
+  stealth:
+    displayName: Stealth
+  speed:
+    displayName: Speed
+  class_dc:
+    displayName: Class DC
+  spell_dc:
+    displayName: Spell DC
+  senses:
+    displayName: Senses
+  hero_points:
+    displayName: Hero Pts
+  focus_points:
+    displayName: Focus
+  status:
+    displayName: Status
+
+views:
+  - type: table
+    name: Party
+    order:
+      - file.name
+      - level
+      - ac
+      - hp_current
+      - hp_max
+      - temp_hp
+      - fort
+      - ref
+      - will
+      - perception
+      - stealth
+      - speed
+      - class_dc
+      - spell_dc
+      - senses
+      - hero_points
+      - focus_points
