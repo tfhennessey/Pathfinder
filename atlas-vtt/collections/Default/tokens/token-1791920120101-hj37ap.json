@@ -12,6 +12,7 @@
     "thumbnailPath": "atlas-vtt/assets/thumbnails/BOSS_SKRAWNG_1791920119867_k0rjsg-4703e62f.webp",
     "id": "token-1791920120101-hj37ap",
     "createdAt": 1791920120101,
-    "modifiedAt": 1791920251186
+    "modifiedAt": 1791920251186,
+    "statblockPath": "Monsters/Abomination Vaults/boss-skrawng.md"
   }
 }

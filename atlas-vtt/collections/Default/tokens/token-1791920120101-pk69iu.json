@@ -3,7 +3,7 @@
     "format": 1,
     "type": "token",
     "showRing": true,
-    "name": "flickerwhips",
+    "name": "Flickerwisp",
     "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/flickerwhips_1791920119755_1dzy33.webp",
     "collection": "Default",
     "tags": [
@@ -12,6 +12,7 @@
     "thumbnailPath": "atlas-vtt/assets/thumbnails/flickerwhips_1791920119755_1dzy33-1ae41374.webp",
     "id": "token-1791920120101-pk69iu",
     "createdAt": 1791920120101,
-    "modifiedAt": 1791920251555
+    "modifiedAt": 1791920251555,
+    "statblockPath": "Monsters/Abomination Vaults/flickerwisp.md"
   }
 }
