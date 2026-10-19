@@ -603,3 +603,21 @@ Trigger A living creature ends its turn in area A11 at night; Effect A ghastly i
 Routine (1 action) The bloody image opens its mouth and appears to inhale, drawing blood from the body of one creature in its line of sight within 90 feet from the center of area A11. The creature targeted must attempt a DC 20 Fortitude save. Critical Success The creature is unaffected. Success The creature takes 1d10 bleed damage. Failure The creature takes 1d10+6 bleed damage. Critical Failure The creature takes 2d10+6 bleed damage and is enfeebled 2 as long as it’s bleeding.
 
 Reset If the haunt is disabled or destroyed through damage, the bloody phantom of Belcorra sprays upward in a spiral, dousing the trap door leading to area A25 before draining upward through the keyhole, which reduces the Thievery DC to Pick the Lock to 20. At the next sunrise, the blood drains back down to this room and the haunt resets. The haunt is destroyed permanently once Lasda Venkervale is rescued from area D9
+
+## A12. BELCORRA'S OFFICE
+
+> [!quote] Read Aloud
+> The ceiling has collapsed in the southwest corner of this room. The walls bear several shelves, but the books and papers once kept here have rotted to ruin long ago, as have the desk and chair in an alcove to the northeast.
+
+A hero Searching this room who succeeds at a DC 20 Perception check locates the secret door in the east wall, where a rotating shelf functions as the door's handle. Beyond, a flight of stairs leads down to area B6.
+
+Treasure: A hero Searching the desk notes a hidden drawer that has fallen partially open, revealing a few still-potent alchemical elixirs Belcorra stashed here: a lesser [[compendium/equipment/items/comprehension-elixir|comprehension elixir]], a minor [[compendium/equipment/items/elixir-of-life|elixir of life]], and a lesser [[compendium/equipment/items/skeptics-elixir-av1|skeptic's elixir]] (page 78).
+
+## A13. BELCORRA'S SANCTUM
+
+> [!quote] Read Aloud
+> This triangular room might have once seemed comfortable, but after years of rain and exposure to the elements through the two arrow slits in the northwestern wall, the room's divan, armoire, and tapestries have fallen to decay.
+
+Belcorra maintained this private room to relax and constructed a secret entrance to the shrine to easily access it. A rusted ring of keys sits under the divan, and any hero Searching this room finds it. Rust has ruined six of its iron keys, but two bronze keys remain usable: the one decorated with a lighthouse unlocks the trap door to Gauntlight's cupola (area A25), and the other decorated with a book unlocks the door to Belcorra's private reading room (area C27).
+
+A tapestry formerly concealed a secret door, but it rotted and fell long ago, so the door has become slightly easier to find. A hero Searching this room who succeeds at a DC 16 Perception check locates the secret door that leads into a small area that connects to the shrine. Characters can obviously spot the second, partly ajar secret door within this space, as described in area A15.
