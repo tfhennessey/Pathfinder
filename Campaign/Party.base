@@ -2,7 +2,6 @@ filters:
   or:
     - file.hasTag("pc")
     - file.inFolder("Campaign/Characters")
-
 properties:
   file.name:
     displayName: Character
@@ -38,7 +37,6 @@ properties:
     displayName: Focus
   status:
     displayName: Status
-
 views:
   - type: table
     name: Party

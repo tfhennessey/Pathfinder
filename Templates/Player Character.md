@@ -1,28 +1,27 @@
 ---
-pc: true
+pc: false
 tags:
-  - pc
-player: 
-ancestry: 
-heritage: 
-class: 
+player:
+ancestry:
+heritage:
+class:
 level: 1
-hp_max: 
-hp_current: 
+hp_max:
+hp_current:
 temp_hp: 0
-ac: 
-fort: 
-ref: 
-will: 
-perception: 
-stealth: 
-speed: 
-class_dc: 
-spell_dc: 
+ac:
+fort:
+ref:
+will:
+perception:
+stealth:
+speed:
+class_dc:
+spell_dc:
 hero_points: 1
-focus_points: 
-focus_max: 
-senses: 
+focus_points:
+focus_max:
+senses:
 status: active
 ---
 # {{title}}

@@ -18,35 +18,20 @@
             }
           },
           {
-            "id": "5ecfe592a0c92906",
+            "id": "90a70dd2980a2bad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
-                "mode": "source",
+                "file": "Monsters/bestiary-1/adamantine-golem.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gauntlight Ruins"
-            }
-          },
-          {
-            "id": "c6631bf4bfbc8147",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gauntlight Ruins"
+              "title": "adamantine-golem"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monsters/bestiary-1/kobold-warrior.md",
+                "file": "Campaign/Characters/Thorigan Orewell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,8 +186,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -224,40 +209,42 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "2786aa69feb7c1cc",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
         ],
         "currentTab": 6
       },
       {
-        "id": "4ddd6fea3dd690e0",
+        "id": "42d7767e82140b12",
         "type": "tabs",
         "children": [
           {
-            "id": "76ae8c1e704c94a4",
+            "id": "43e5e9ca2edd5480",
             "type": "leaf",
             "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          },
-          {
-            "id": "0d530d09f0a12cbc",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
+              "type": "initiative-tracker-creature-view",
+              "state": {
+                "creatureId": "ID_2959d8cb2a48",
+                "creatureName": "Dretch"
+              },
+              "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 458.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,56 +257,57 @@
       "bases:Create new base": false,
       "atlas-vtt:Display image on player view": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "5ecfe592a0c92906",
+  "active": "fb50cd4f1f917a05",
   "lastOpenFiles": [
+    "atlas-vtt/collections/Default/scenes/level2.atlasmap",
+    "Monsters/bestiary-1/adamantine-golem.md",
+    "Campaign/Characters/Thorigan Orewell.md",
     "Campaign/Adventures/Abomination Vaults/z_pdf/Pathfinder 2E - Abomination Vault - AP 1 of 3.pdf",
+    "Campaign/Adventures/Abomination Vaults/Maps/Otari.png",
+    "Rules/conditions.md",
+    "Campaign/Party.base",
+    "Campaign/Party Dashboard.md",
+    "Rules/tables/dc-adjustments.md",
     "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
+    "Campaign/Characters/Gnarlak Goblax.md",
+    "Monsters/bestiary-2/ancient-crystal-dragon.md",
+    "Templates/Player Character.md",
+    "Untitled.canvas",
+    "atlas-vtt/collections/Default/scenes/level2.thumb.jpg",
+    "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
+    "atlas-vtt/collections/Default/scenes/scene-1792589014294-5sxwoq.json",
+    "atlas-vtt/collections/Default/maps/map-1792589001836-h5bc8m.json",
+    "atlas-vtt/assets/thumbnails/level2_1792589001551_jpu8c8-864caacf.webp",
+    "atlas-vtt/assets/level2_1792589001551_jpu8c8.webp",
+    "atlas-vtt/collections/Default/scenes/Otari.atlasmap",
+    "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.thumb.jpg",
+    "Campaign/Characters/The Dongus.md",
+    "Campaign/Characters",
+    "Campaign/Characters.md",
+    "Templates",
+    "Monsters/Abomination Vaults/flickerwisp.md",
+    "Monsters/Abomination Vaults/boss-skrawng.md",
     "compendium/character/archetypes/alkenstar-agent-ooa1.md",
     "atlas-vtt/collections/Default/tokens/Monsters/vampric_mist_1791920119705_b0x59m.webp",
     "atlas-vtt/collections/Default/tokens/Monsters/BOSS_SKRAWNG_1791920119867_k0rjsg.webp",
     "atlas-vtt/collections/Default/tokens/Monsters/corpselight_1791920119778_d3uqyb.webp",
     "atlas-vtt/collections/Default/tokens/Monsters/flickerwhips_1791920119755_1dzy33.webp",
     "atlas-vtt/collections/Default/tokens/Monsters/giant_fly_1791920119948_5tbmt0.webp",
-    "atlas-vtt/collections/Default/tokens/Monsters/giant_maggot_1791920119976_ukpos3.webp",
     "Campaign/ADVENT~1/ABOMIN~1/z_pdf",
-    "Campaign/Adventures/Abomination Vaults/z_pdf/Pathfinder 2E - Abomination Vault - AP 1 of 3 - Ruins Of -- Paizo Inc -- PF2E - Abomination Vault - AP 1 of 3 -- Paizo Inc_ -- d3a1b0b0a964227d848371d022cf6461 -- Anna’s Archive.pdf",
-    "Campaign/Adventures/Abomination Vaults/z_pdf",
     "compendium/character/archetypes/firebrand-braggart-locg.md",
     "compendium/character/archetypes/firework-technician-g-g.md",
     "compendium/character/archetypes/druid.md",
     "compendium/character/archetypes/assassin-apg.md",
-    "Monsters/_attachments/pf2e-settlement.png",
-    "Monsters/_attachments/pf2e-quest-icon.png",
-    "Monsters/_attachments/pf2e-quest.png",
-    "Monsters/_attachments/pf2e-misc.png",
-    "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
     "Monsters/Readme.md",
     "compendium/spells/bane.md",
     "MITFLITS.md",
     "Rules/abilities/at-will-spells.md",
     "Rules/actions/affix-a-talisman.md",
     "Rules/actions/accidental-shot-g-g.md",
-    "Rules/core-rulebook/chapter-11-crafting-treasure.md",
-    "Rules/gamemastery-guide/chapter-2-tools.md",
-    "Rules/gamemastery-guide/chapter-5-npc-gallery.md",
-    "Rules/gamemastery-guide/chapter-4-variant-rules.md",
-    "Rules/core-rulebook/chapter-3-classes.md",
-    "Rules/tables/ability-quirks-da.md",
-    "Rules/tables/adventuring-gear.md",
-    "Rules/tables/alchemical-gear.md",
-    "Rules/tables/animal-prices-lotg.md",
-    "Rules/tables/animals.md",
-    "Rules/tables/critical-hit-deck-bludgeoning-chd.md",
-    "Rules/tables/dc-adjustments.md",
-    "Rules/tables/flexible-spellcaster-spells-per-day-som.md",
-    "atlas-vtt/collections/Default/tokens/token-1791920120101-j39v7w.json",
-    "atlas-vtt/collections/Default/tokens/token-1791920120101-rusa2v.json",
-    "atlas-vtt/collections/Default/tokens/token-1791920120101-7mykx9.json",
-    "atlas-vtt/collections/Default/tokens/token-1791920120101-m2dn8n.json",
-    "atlas-vtt/collections/Default/tokens/token-1791920120101-hj37ap.json",
-    "Untitled.canvas"
+    "Rules/core-rulebook/chapter-11-crafting-treasure.md"
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "id": "map-1792589001836-h5bc8m",
+  "name": "level2",
+  "mapFilePath": "atlas-vtt/assets/level2_1792589001551_jpu8c8.webp",
+  "tags": [],
+  "collection": "Default",
+  "createdAt": 1792589001836,
+  "modifiedAt": 1792589001836,
+  "atlasRecord": {
+    "format": 1,
+    "type": "map",
+    "name": "level2",
+    "mapFilePath": "atlas-vtt/assets/level2_1792589001551_jpu8c8.webp",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/level2_1792589001551_jpu8c8-864caacf.webp",
+    "id": "map-1792589001836-h5bc8m",
+    "createdAt": 1792589001836,
+    "modifiedAt": 1792589001836
+  }
+}
