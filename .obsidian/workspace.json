@@ -30,8 +30,23 @@
               "icon": "lucide-file",
               "title": "adamantine-golem"
             }
+          },
+          {
+            "id": "c3efbeb7338c1f2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Characters/Gnarlak Goblax.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gnarlak Goblax"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,11 +276,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "fb50cd4f1f917a05",
+  "active": "c3efbeb7338c1f2d",
   "lastOpenFiles": [
-    "atlas-vtt/collections/Default/scenes/level2.atlasmap",
-    "Monsters/bestiary-1/adamantine-golem.md",
     "Campaign/Characters/Thorigan Orewell.md",
+    "Campaign/Characters/Gnarlak Goblax.md",
+    "Monsters/bestiary-1/adamantine-golem.md",
+    "atlas-vtt/collections/Default/scenes/level2.atlasmap",
     "Campaign/Adventures/Abomination Vaults/z_pdf/Pathfinder 2E - Abomination Vault - AP 1 of 3.pdf",
     "Campaign/Adventures/Abomination Vaults/Maps/Otari.png",
     "Rules/conditions.md",
@@ -273,7 +289,6 @@
     "Campaign/Party Dashboard.md",
     "Rules/tables/dc-adjustments.md",
     "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
-    "Campaign/Characters/Gnarlak Goblax.md",
     "Monsters/bestiary-2/ancient-crystal-dragon.md",
     "Templates/Player Character.md",
     "Untitled.canvas",

@@ -2,7 +2,7 @@
 pc: true
 tags:
   - pc
-player:
+player: Vinnie
 ancestry: Orc
 heritage: Deep Orc
 class: Fighter
