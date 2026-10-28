@@ -112,14 +112,15 @@
             "id": "f4eb703c8da43c93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Campaign/GM Screen.md",
-                "mode": "preview",
-                "source": false
+                "aFile": "Campaign/GM Screen.md",
+                "bFile": "Campaign/GM Screen.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "GM Screen"
+              "icon": "diff",
+              "title": "Diff: GM Screen  (Index)"
             }
           }
         ],
@@ -353,7 +354,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f4eb703c8da43c93",
+  "active": "8e614fea65ea51b6",
   "lastOpenFiles": [
     "Campaign/GM Screen.md",
     "Campaign/Characters/Thorigan Orewell.md",
