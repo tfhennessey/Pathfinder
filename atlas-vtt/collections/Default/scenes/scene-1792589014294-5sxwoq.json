@@ -1,5 +1,5 @@
 {
-  "mapPath": "atlas-vtt/collections/Default/scenes/level2.atlasmap",
+  "mapPath": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level2.atlasmap",
   "atlasRecord": {
     "format": 1,
     "type": "scene",
@@ -8,6 +8,6 @@
     "tags": [],
     "id": "scene-1792589014294-5sxwoq",
     "createdAt": 1792589014294,
-    "modifiedAt": 1792589014294
+    "modifiedAt": 1793190315402
   }
 }

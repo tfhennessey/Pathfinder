@@ -38,12 +38,12 @@ Natural 20/1 shifts the degree *before* any other adjustment. Apply the nat 20/1
 
 **Cover and flanking**
 
-| Situation | Effect |
-|---|---|
-| Lesser cover (usually a creature) | +1 AC; can't Hide |
-| Standard cover | +2 AC, Reflex vs. area effects, Stealth; can Hide |
-| Greater cover (via Take Cover) | +4 to the same |
-| Flanking | Target is [[Rules/conditions#Flat-Footed|flat-footed]] (–2 AC) to melee from flankers |
+| Situation                         | Effect                                                                    |     |
+| --------------------------------- | ------------------------------------------------------------------------- | --- |
+| Lesser cover (usually a creature) | +1 AC; can't Hide                                                         |     |
+| Standard cover                    | +2 AC, Reflex vs. area effects, Stealth; can Hide                         |     |
+| Greater cover (via Take Cover)    | +4 to the same                                                            |     |
+| Flanking                          | Target is [[Rules/conditions#Flat-Footed]] (–2 AC) to melee from flankers |     |
 
 You flank when you and an ally are on opposite sides or corners of the foe, both able to act, both threatening it with melee. Reach weapons use their reach for this.
 
@@ -72,17 +72,17 @@ See [[Rules/tables/dcs-by-level|DCs by Level]] for level-based DCs and [[Rules/t
 
 ### Attacking and spells
 
-| Action | Cost | What it does |
-|---|---|---|
-| [[Rules/actions/strike|Strike]] | [>] | Attack roll vs. AC with a wielded weapon or unarmed attack |
-| [[Rules/actions/cast-a-spell|Cast a Spell]] | varies | Cost is in the spell's stat block |
-| [[Rules/actions/sustain-a-spell|Sustain a Spell]] | [>] | Keep a sustained spell going to the end of your next turn |
-| [[Rules/actions/dismiss|Dismiss]] | [>] | End one dismissible spell or item effect |
-| [[Rules/actions/activate-an-item|Activate an Item]] | varies | Cost is in the item's stat block |
-| [[Rules/actions/ready|Ready]] | [>>] | Pick an action + trigger; use it as a reaction before your next turn |
-| [[Rules/actions/raise-a-shield|Raise a Shield]] | [>] | Gain the shield's circumstance bonus to AC until your next turn |
-| [[Rules/actions/escape|Escape]] | [>] | Check vs. the DC of whatever has you grabbed, immobilized, or restrained |
-| [[Rules/actions/aid|Aid]] | [R] | Your skill/attack check vs. DC 20: crit +2 (+3 master, +4 legendary), success +1, crit fail –1. Needs a setup action on your turn |
+| Action               | Cost   | What it does                                               |                                                                                                                                   |
+| -------------------- | ------ | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| [[strike]]           | [>]    | Attack roll vs. AC with a wielded weapon or unarmed attack |                                                                                                                                   |
+| [[cast-a-spell]]     | varies | variesCost is in the spell's stat block                    |                                                                                                                                   |
+| [[sustain-a-spell]]  | [>]    | Keep a sustained spell going to the end of your next turn  |                                                                                                                                   |
+| [[dismiss]]          | [>]    | [>]                                                        | End one dismissible spell or item effect                                                                                          |
+| [[activate-an-item]] | varies | varies                                                     | Cost is in the item's stat block                                                                                                  |
+| [[ready]]            | [>>]   | [>>]                                                       | Pick an action + trigger; use it as a reaction before your next turn                                                              |
+| [[raise-a-shield]]   | [>]    | [>]                                                        | Gain the shield's circumstance bonus to AC until your next turn                                                                   |
+| [[escape]]           | [>]    | [>]                                                        | Check vs. the DC of whatever has you grabbed, immobilized, or restrained                                                          |
+| [[aid]]              | [R]    | [R]                                                        | Your skill/attack check vs. DC 20: crit +2 (+3 master, +4 legendary), success +1, crit fail –1. Needs a setup action on your turn |
 
 ### Movement
 

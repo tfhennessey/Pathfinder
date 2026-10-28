@@ -18,35 +18,112 @@
             }
           },
           {
-            "id": "90a70dd2980a2bad",
+            "id": "f9485e0b6ec10b33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "atlas-vtt",
               "state": {
-                "file": "Monsters/bestiary-1/adamantine-golem.md",
-                "mode": "preview",
-                "source": false
+                "file": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
+                "mapFilePath": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
+                "tabs": [
+                  {
+                    "id": "tab-1793190341813-ru4mk3",
+                    "filePath": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
+                    "displayName": "level1",
+                    "isLoaded": false,
+                    "isDirty": false
+                  },
+                  {
+                    "id": "tab-1793190341884-m3ytpo",
+                    "filePath": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level2.atlasmap",
+                    "displayName": "level2",
+                    "isLoaded": true,
+                    "isDirty": false
+                  }
+                ],
+                "activeTabId": "tab-1793190341813-ru4mk3",
+                "viewportPerTab": {
+                  "tab-1793190341884-m3ytpo": {
+                    "centerX": 1700,
+                    "centerY": 2150,
+                    "scale": 0.23274418604651165
+                  },
+                  "tab-1793190341813-ru4mk3": {
+                    "centerX": 1438.1316335966467,
+                    "centerY": 4485.351201880887,
+                    "scale": 0.5440531373861298
+                  }
+                }
               },
-              "icon": "lucide-file",
-              "title": "adamantine-golem"
+              "icon": "map",
+              "title": "Atlas: level1.atlasmap"
             }
           },
           {
-            "id": "c3efbeb7338c1f2d",
+            "id": "0147b4870d68e603",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Characters/Gnarlak Goblax.md",
+                "file": "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gnarlak Goblax"
+              "title": "Gauntlight Ruins"
+            }
+          },
+          {
+            "id": "fa7614a9b5a538d5",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": {
+                "encounter": [
+                  [
+                    {
+                      "name": "Slurk",
+                      "initiative": 0,
+                      "static": false,
+                      "modifier": 6,
+                      "hp": 35,
+                      "currentMaxHP": 35,
+                      "ac": 17,
+                      "currentAC": 17,
+                      "path": "Monsters/bestiary-1/slurk.md",
+                      "id": "ID_5aaa39aa587a",
+                      "currentHP": 35,
+                      "tempHP": 0,
+                      "status": [],
+                      "enabled": true,
+                      "level": "Creature 2",
+                      "hidden": false,
+                      "friendly": false
+                    },
+                    1
+                  ]
+                ]
+              },
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
+            }
+          },
+          {
+            "id": "f4eb703c8da43c93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/GM Screen.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GM Screen"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -248,8 +325,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_2959d8cb2a48",
-                "creatureName": "Dretch"
+                "creatureId": "ID_1b49db7b0a1a",
+                "creatureName": "Slurk"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -259,7 +336,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,24 +353,33 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "c3efbeb7338c1f2d",
+  "active": "f4eb703c8da43c93",
   "lastOpenFiles": [
+    "Campaign/GM Screen.md",
     "Campaign/Characters/Thorigan Orewell.md",
+    "atlas-vtt/collections/Default/scenes/level2.thumb.jpg",
+    "atlas-vtt/collections/Default/scenes/level2.atlasmap",
+    "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
+    "Campaign/Adventures/Abomination Vaults/Servants' Quarters.md",
+    "Campaign/Adventures/Abomination Vaults/Library.md",
+    "Monsters/bestiary-2/ahuizotl.md",
+    "compendium/feats/able-ritualist-av2.md",
+    "compendium/setting/domains.md",
+    "compendium/skills.md",
+    "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
+    "atlas-vtt/collections/Default/scenes/Abomination Vaults/level2.atlasmap",
     "Campaign/Characters/Gnarlak Goblax.md",
     "Monsters/bestiary-1/adamantine-golem.md",
-    "atlas-vtt/collections/Default/scenes/level2.atlasmap",
     "Campaign/Adventures/Abomination Vaults/z_pdf/Pathfinder 2E - Abomination Vault - AP 1 of 3.pdf",
     "Campaign/Adventures/Abomination Vaults/Maps/Otari.png",
     "Rules/conditions.md",
     "Campaign/Party.base",
     "Campaign/Party Dashboard.md",
     "Rules/tables/dc-adjustments.md",
-    "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
     "Monsters/bestiary-2/ancient-crystal-dragon.md",
     "Templates/Player Character.md",
     "Untitled.canvas",
-    "atlas-vtt/collections/Default/scenes/level2.thumb.jpg",
-    "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
+    "atlas-vtt/collections/Default/scenes/Abomination Vaults/level2.thumb.jpg",
     "atlas-vtt/collections/Default/scenes/scene-1792589014294-5sxwoq.json",
     "atlas-vtt/collections/Default/maps/map-1792589001836-h5bc8m.json",
     "atlas-vtt/assets/thumbnails/level2_1792589001551_jpu8c8-864caacf.webp",
@@ -311,18 +397,9 @@
     "atlas-vtt/collections/Default/tokens/Monsters/BOSS_SKRAWNG_1791920119867_k0rjsg.webp",
     "atlas-vtt/collections/Default/tokens/Monsters/corpselight_1791920119778_d3uqyb.webp",
     "atlas-vtt/collections/Default/tokens/Monsters/flickerwhips_1791920119755_1dzy33.webp",
-    "atlas-vtt/collections/Default/tokens/Monsters/giant_fly_1791920119948_5tbmt0.webp",
-    "Campaign/ADVENT~1/ABOMIN~1/z_pdf",
     "compendium/character/archetypes/firebrand-braggart-locg.md",
     "compendium/character/archetypes/firework-technician-g-g.md",
     "compendium/character/archetypes/druid.md",
-    "compendium/character/archetypes/assassin-apg.md",
-    "Monsters/Readme.md",
-    "compendium/spells/bane.md",
-    "MITFLITS.md",
-    "Rules/abilities/at-will-spells.md",
-    "Rules/actions/affix-a-talisman.md",
-    "Rules/actions/accidental-shot-g-g.md",
-    "Rules/core-rulebook/chapter-11-crafting-treasure.md"
+    "compendium/character/archetypes/assassin-apg.md"
   ]
 }
