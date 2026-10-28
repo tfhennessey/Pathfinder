@@ -65,65 +65,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
+                "file": "Campaign/GM Screen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gauntlight Ruins"
-            }
-          },
-          {
-            "id": "fa7614a9b5a538d5",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": {
-                "encounter": [
-                  [
-                    {
-                      "name": "Slurk",
-                      "initiative": 0,
-                      "static": false,
-                      "modifier": 6,
-                      "hp": 35,
-                      "currentMaxHP": 35,
-                      "ac": 17,
-                      "currentAC": 17,
-                      "path": "Monsters/bestiary-1/slurk.md",
-                      "id": "ID_5aaa39aa587a",
-                      "currentHP": 35,
-                      "tempHP": 0,
-                      "status": [],
-                      "enabled": true,
-                      "level": "Creature 2",
-                      "hidden": false,
-                      "friendly": false
-                    },
-                    1
-                  ]
-                ]
-              },
-              "icon": "intiative-tracker-encounter-builder",
-              "title": "Encounter Builder"
-            }
-          },
-          {
-            "id": "f4eb703c8da43c93",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Campaign/GM Screen.md",
-                "bFile": "Campaign/GM Screen.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: GM Screen  (Working Tree)"
+              "title": "GM Screen"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,6 +165,93 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "760372c32c0f6cd3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaign/GM Screen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e04a32f3752648f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campaign/GM Screen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "54d81e9b6d66ed8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3ea9fe5f77d14584",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6bee5685246d4307",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaign/GM Screen.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "f83615c95ef3b96f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ]
       },
@@ -227,7 +265,7 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_1b49db7b0a1a",
+                "creatureId": "ID_0b0a9949292a",
                 "creatureName": "Slurk"
               },
               "icon": "initiative-tracker-creature-view",
@@ -255,13 +293,14 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "8e614fea65ea51b6",
+  "active": "0147b4870d68e603",
   "lastOpenFiles": [
+    "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
+    "Campaign/GM Screen.md",
     "Campaign/GM Screen.md",
     "Campaign/Characters/Thorigan Orewell.md",
     "atlas-vtt/collections/Default/scenes/level2.thumb.jpg",
     "atlas-vtt/collections/Default/scenes/level2.atlasmap",
-    "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
     "Campaign/Adventures/Abomination Vaults/Servants' Quarters.md",
     "Campaign/Adventures/Abomination Vaults/Library.md",
     "Monsters/bestiary-2/ahuizotl.md",
