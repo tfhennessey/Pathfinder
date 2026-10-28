@@ -116,11 +116,10 @@
               "state": {
                 "aFile": "Campaign/GM Screen.md",
                 "bFile": "Campaign/GM Screen.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: GM Screen  (Index)"
+              "title": "Diff: GM Screen  (Working Tree)"
             }
           }
         ],
@@ -197,93 +196,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95daaa69077eaefe",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "40fc9aa1a164b6ab",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Monsters/bestiary-1/kobold-warrior.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "505f282818acbbd5",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "66272703ec1049fe",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "2081d8e0fbfeeb62",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Campaign/Characters/Thorigan Orewell.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "54d19cbe29685abd",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
             "id": "8e614fea65ea51b6",
             "type": "leaf",
             "state": {
@@ -291,16 +203,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "eed6be2b9ebc0e1f",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
             }
           },
           {
@@ -313,8 +215,7 @@
               "title": "Initiative Tracker"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "42d7767e82140b12",
@@ -337,7 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 485.5
   },
   "left-ribbon": {
     "hiddenItems": {
