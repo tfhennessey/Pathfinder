@@ -21,42 +21,49 @@
             "id": "f9485e0b6ec10b33",
             "type": "leaf",
             "state": {
-              "type": "atlas-vtt",
+              "type": "markdown",
               "state": {
-                "file": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
-                "mapFilePath": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
-                "tabs": [
-                  {
-                    "id": "tab-1793190341813-ru4mk3",
-                    "filePath": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
-                    "displayName": "level1",
-                    "isLoaded": false,
-                    "isDirty": false
-                  },
-                  {
-                    "id": "tab-1793190341884-m3ytpo",
-                    "filePath": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level2.atlasmap",
-                    "displayName": "level2",
-                    "isLoaded": true,
-                    "isDirty": false
-                  }
-                ],
-                "activeTabId": "tab-1793190341813-ru4mk3",
-                "viewportPerTab": {
-                  "tab-1793190341884-m3ytpo": {
-                    "centerX": 1700,
-                    "centerY": 2150,
-                    "scale": 0.23274418604651165
-                  },
-                  "tab-1793190341813-ru4mk3": {
-                    "centerX": 1438.1316335966467,
-                    "centerY": 4485.351201880887,
-                    "scale": 0.5440531373861298
-                  }
-                }
+                "file": "Campaign/Characters/Callum Moorewind.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map",
-              "title": "Atlas: level1.atlasmap"
+              "icon": "lucide-file",
+              "title": "Callum Moorewind"
+            }
+          },
+          {
+            "id": "ccbccaa8a5c7c684",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": {
+                "encounter": [
+                  [
+                    {
+                      "name": "Slurk",
+                      "initiative": 0,
+                      "static": false,
+                      "modifier": 6,
+                      "hp": 35,
+                      "currentMaxHP": 35,
+                      "ac": 17,
+                      "currentAC": 17,
+                      "path": "Monsters/bestiary-1/slurk.md",
+                      "id": "ID_5aaa39aa587a",
+                      "currentHP": 35,
+                      "tempHP": 0,
+                      "status": [],
+                      "enabled": true,
+                      "level": "Creature 2",
+                      "hidden": false,
+                      "friendly": false
+                    },
+                    1
+                  ]
+                ]
+              },
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
             }
           },
           {
@@ -65,16 +72,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/GM Screen.md",
+                "file": "Campaign/Characters/Callum Moorewind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GM Screen"
+              "title": "Callum Moorewind"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,83 +174,6 @@
             }
           },
           {
-            "id": "760372c32c0f6cd3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Campaign/GM Screen.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "e04a32f3752648f7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Campaign/GM Screen.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "54d81e9b6d66ed8b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "3ea9fe5f77d14584",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "6bee5685246d4307",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Campaign/GM Screen.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
             "id": "f83615c95ef3b96f",
             "type": "leaf",
             "state": {
@@ -290,15 +220,20 @@
       "atlas-vtt:Display image on player view": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "0147b4870d68e603",
+  "active": "8e614fea65ea51b6",
   "lastOpenFiles": [
-    "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
     "Campaign/GM Screen.md",
-    "Campaign/GM Screen.md",
+    "Campaign/Characters/Callum Moorewind.md",
     "Campaign/Characters/Thorigan Orewell.md",
+    "Campaign/Characters/Gnarlak Goblax.md",
+    "Rules/gamemastery-guide/chapter-1-gamemastery-basics.md",
+    "Rules/traits/exploration.md",
+    "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
+    "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
     "atlas-vtt/collections/Default/scenes/level2.thumb.jpg",
     "atlas-vtt/collections/Default/scenes/level2.atlasmap",
     "Campaign/Adventures/Abomination Vaults/Servants' Quarters.md",
@@ -307,9 +242,7 @@
     "compendium/feats/able-ritualist-av2.md",
     "compendium/setting/domains.md",
     "compendium/skills.md",
-    "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
     "atlas-vtt/collections/Default/scenes/Abomination Vaults/level2.atlasmap",
-    "Campaign/Characters/Gnarlak Goblax.md",
     "Monsters/bestiary-1/adamantine-golem.md",
     "Campaign/Adventures/Abomination Vaults/z_pdf/Pathfinder 2E - Abomination Vault - AP 1 of 3.pdf",
     "Campaign/Adventures/Abomination Vaults/Maps/Otari.png",
@@ -339,8 +272,6 @@
     "atlas-vtt/collections/Default/tokens/Monsters/corpselight_1791920119778_d3uqyb.webp",
     "atlas-vtt/collections/Default/tokens/Monsters/flickerwhips_1791920119755_1dzy33.webp",
     "compendium/character/archetypes/firebrand-braggart-locg.md",
-    "compendium/character/archetypes/firework-technician-g-g.md",
-    "compendium/character/archetypes/druid.md",
-    "compendium/character/archetypes/assassin-apg.md"
+    "compendium/character/archetypes/firework-technician-g-g.md"
   ]
 }

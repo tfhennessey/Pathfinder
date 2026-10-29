@@ -18,6 +18,16 @@
       "hp": "22",
       "level": 1,
       "player": true
+    },
+    {
+      "note": "Callum Moorewind",
+      "path": "Campaign/Characters/Callum Moorewind.md",
+      "name": "Callum Moorewind",
+      "ac": 18,
+      "hp": 17,
+      "level": 1,
+      "modifier": 0,
+      "player": true
     }
   ],
   "parties": [
@@ -25,7 +35,8 @@
       "name": "The Rat Catchers",
       "players": [
         "Gnarlak Goblax",
-        "Thorigan Orewell"
+        "Thorigan Orewell",
+        "Callum Moorewind"
       ]
     }
   ],
@@ -253,6 +264,26 @@
   "state": {
     "creatures": [
       {
+        "name": "Slurk",
+        "initiative": 17,
+        "static": false,
+        "modifier": 6,
+        "hp": 35,
+        "currentMaxHP": 35,
+        "ac": 17,
+        "currentAC": 17,
+        "path": "Monsters/bestiary-1/slurk.md",
+        "id": "ID_5aaa39aa587a",
+        "currentHP": 35,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": "Creature 2",
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
         "name": "Gnarlak Goblax",
         "initiative": 0,
         "static": false,
@@ -263,14 +294,13 @@
         "currentAC": 16,
         "note": "Gnarlak Goblax",
         "path": "Campaign/Characters/Gnarlak Goblax.md",
-        "id": "ID_2a0a3968ba98",
-        "currentHP": 7,
+        "id": "ID_eb682aba2869",
+        "currentHP": 15,
         "tempHP": 0,
         "status": [],
         "enabled": true,
         "level": 1,
         "player": true,
-        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -280,25 +310,45 @@
         "static": false,
         "modifier": 0,
         "hp": 22,
-        "currentMaxHP": "22",
+        "currentMaxHP": 22,
         "ac": "18",
         "currentAC": "18",
         "note": "Thorigan Orewell",
         "path": "Campaign/Characters/Thorigan Orewell.md",
-        "id": "ID_7a1b79fb98b9",
+        "id": "ID_db391b8999ba",
         "currentHP": 22,
         "tempHP": 0,
         "status": [],
         "enabled": true,
         "level": 1,
         "player": true,
-        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Callum Moorewind",
+        "initiative": 0,
+        "static": false,
+        "modifier": 0,
+        "hp": 17,
+        "currentMaxHP": 17,
+        "ac": 18,
+        "currentAC": 18,
+        "note": "Callum Moorewind",
+        "path": "Campaign/Characters/Callum Moorewind.md",
+        "id": "ID_6a6b794b4b4a",
+        "currentHP": 17,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 1,
+        "player": true,
         "hidden": false,
         "friendly": false
       }
     ],
     "state": false,
-    "name": null,
+    "name": "A3",
     "round": 1,
     "logFile": "",
     "rollHP": false
