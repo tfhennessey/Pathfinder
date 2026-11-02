@@ -1,0 +1,100 @@
+{
+  "description": "Encounter with 3 tokens",
+  "tokens": [
+    {
+      "id": "tok_1791920405107_ow07d95zp",
+      "name": "Mitflit",
+      "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/Floor 1/miflet_1791913525040_1gwxrd.webp",
+      "cell": {
+        "q": 0,
+        "r": 0
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "state": {
+        "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/miflet_1791913525040_1gwxrd.webp",
+        "kind": "character",
+        "name": "Mitflit",
+        "showRing": true,
+        "statblockPath": "Monsters/bestiary-1/mitflit.md",
+        "layer": 4,
+        "isHidden": false,
+        "hp": {
+          "current": 10,
+          "max": 10
+        }
+      },
+      "statblockPath": "Monsters/bestiary-1/mitflit.md"
+    },
+    {
+      "id": "tok_1791920405107_zwe12b510",
+      "name": "Mitflit",
+      "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/Floor 1/miflet_1791913525040_1gwxrd.webp",
+      "cell": {
+        "q": 0,
+        "r": -1
+      },
+      "offset": {
+        "x": 0,
+        "y": -1.4285714285714286
+      },
+      "state": {
+        "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/miflet_1791913525040_1gwxrd.webp",
+        "kind": "character",
+        "name": "Mitflit",
+        "showRing": true,
+        "statblockPath": "Monsters/bestiary-1/mitflit.md",
+        "layer": 5,
+        "hp": {
+          "current": 10,
+          "max": 10
+        }
+      },
+      "statblockPath": "Monsters/bestiary-1/mitflit.md"
+    },
+    {
+      "id": "tok_1791920405107_1yecgwzn5",
+      "name": "Mitflit",
+      "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/Floor 1/miflet_1791913525040_1gwxrd.webp",
+      "cell": {
+        "q": -1,
+        "r": 1
+      },
+      "offset": {
+        "x": -1.4285714285714286,
+        "y": 0.7142857142857143
+      },
+      "state": {
+        "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/miflet_1791913525040_1gwxrd.webp",
+        "kind": "character",
+        "name": "Mitflit",
+        "showRing": true,
+        "statblockPath": "Monsters/bestiary-1/mitflit.md",
+        "layer": 6,
+        "hp": {
+          "current": 10,
+          "max": 10
+        }
+      },
+      "statblockPath": "Monsters/bestiary-1/mitflit.md"
+    }
+  ],
+  "difficulty": "medium",
+  "formation": {
+    "gridType": "square",
+    "pitch": 70
+  },
+  "atlasRecord": {
+    "format": 1,
+    "name": "A1",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailUrl": "app://fe44d6f5dd3d39fcf975e714442c496bc9ee/C:/Users/thennessey/Documents/repos/Pathfinder/atlas-vtt/assets/encounter-thumbnails/encounter-1793648486091.png?1793648486094",
+    "id": "encounter-1793648486124-esngck",
+    "createdAt": 1793648486124,
+    "modifiedAt": 1793648486124,
+    "type": "encounter"
+  }
+}

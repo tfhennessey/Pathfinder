@@ -8,7 +8,7 @@ tags:
 statblock: inline
 name: Giant Maggot
 level: 0
-image: atlas-vtt/collections/Default/tokens/Monsters/giant_maggot_1791920119976_ukpos3.webp
+image: atlas-vtt/collections/Default/tokens/Monsters/Floor 1/giant_maggot_1791920119976_ukpos3.webp
 ---
 
 ```statblock

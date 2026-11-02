@@ -8,7 +8,7 @@ tags:
 statblock: inline
 name: Giant Fly
 level: 1
-image: atlas-vtt/collections/Default/tokens/Monsters/giant_fly_1791920119948_5tbmt0.webp
+image: atlas-vtt/collections/Default/tokens/Monsters/Floor 1/giant_fly_1791920119948_5tbmt0.webp
 ---
 
 ```statblock

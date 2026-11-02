@@ -4,7 +4,7 @@
     "type": "token",
     "showRing": true,
     "name": "slurk",
-    "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/slurk_1791920120040_h0pkd2.webp",
+    "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/Floor 1/slurk_1791920120040_h0pkd2.webp",
     "collection": "Default",
     "tags": [
       "monster"
@@ -12,7 +12,7 @@
     "thumbnailPath": "atlas-vtt/assets/thumbnails/slurk_1791920120040_h0pkd2-7e5df472.webp",
     "id": "token-1791920120101-j39v7w",
     "createdAt": 1791920120101,
-    "modifiedAt": 1791920252033,
+    "modifiedAt": 1793650999973,
     "statblockPath": "Monsters/bestiary-1/slurk.md"
   }
 }

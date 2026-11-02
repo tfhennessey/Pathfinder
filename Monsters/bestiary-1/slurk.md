@@ -8,7 +8,7 @@ tags:
 statblock: inline
 name: Slurk
 level: 2
-image: atlas-vtt/collections/Default/tokens/Monsters/slurk_1791920120040_h0pkd2.webp
+image: atlas-vtt/collections/Default/tokens/Monsters/Floor 1/slurk_1791920120040_h0pkd2.webp
 ---
 
 ```statblock

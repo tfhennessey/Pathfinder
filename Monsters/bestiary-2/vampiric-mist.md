@@ -8,7 +8,7 @@ tags:
 statblock: inline
 name: Vampiric Mist
 level: 3
-image: atlas-vtt/collections/Default/tokens/Monsters/vampric_mist_1791920119705_b0x59m.webp
+image: atlas-vtt/collections/Default/tokens/Monsters/Floor 1/vampric_mist_1791920119705_b0x59m.webp
 ---
 
 ```statblock

@@ -4,7 +4,7 @@
     "type": "token",
     "showRing": true,
     "name": "giant maggot",
-    "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/giant_maggot_1791920119976_ukpos3.webp",
+    "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/Floor 1/giant_maggot_1791920119976_ukpos3.webp",
     "collection": "Default",
     "tags": [
       "monster"
@@ -12,7 +12,7 @@
     "thumbnailPath": "atlas-vtt/assets/thumbnails/giant_maggot_1791920119976_ukpos3-7f185d30.webp",
     "id": "token-1791920120101-rusa2v",
     "createdAt": 1791920120101,
-    "modifiedAt": 1791920251866,
+    "modifiedAt": 1793650998602,
     "statblockPath": "Monsters/bestiary-2/giant-maggot.md"
   }
 }

@@ -4,7 +4,7 @@
     "type": "token",
     "showRing": true,
     "name": "Giant scorpion",
-    "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/giant_scorpian_1791920119817_bchc67.webp",
+    "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/Floor 1/giant_scorpian_1791920119817_bchc67.webp",
     "collection": "Default",
     "tags": [
       "monster"
@@ -12,7 +12,7 @@
     "thumbnailPath": "atlas-vtt/assets/thumbnails/giant_scorpian_1791920119817_bchc67-97dca8e4.webp",
     "id": "token-1791920120101-3su1k7",
     "createdAt": 1791920120101,
-    "modifiedAt": 1791920251007,
+    "modifiedAt": 1793650998918,
     "statblockPath": "Monsters/bestiary-1/giant-scorpion.md"
   }
 }

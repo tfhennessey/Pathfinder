@@ -7,7 +7,7 @@ ancestry: Human
 heritage: Versitile Human
 class: Necromancer
 level: 1
-hp_max: "17"
+hp: "17"
 hp_current: "17"
 temp_hp: 0
 ac: "18"

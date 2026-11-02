@@ -1,0 +1,48 @@
+{
+  "description": "Encounter with 1 token",
+  "tokens": [
+    {
+      "id": "tok_1793648515418_urz0m4sep",
+      "name": "Slurk",
+      "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/Floor 1/slurk_1791920120040_h0pkd2.webp",
+      "cell": {
+        "q": 0,
+        "r": 0
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "state": {
+        "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/slurk_1791920120040_h0pkd2.webp",
+        "kind": "character",
+        "name": "Slurk",
+        "showRing": true,
+        "statblockPath": "Monsters/bestiary-1/slurk.md",
+        "layer": 7,
+        "isHidden": true,
+        "hp": {
+          "current": 35,
+          "max": 35
+        }
+      },
+      "statblockPath": "Monsters/bestiary-1/slurk.md"
+    }
+  ],
+  "difficulty": "medium",
+  "formation": {
+    "gridType": "square",
+    "pitch": 70
+  },
+  "atlasRecord": {
+    "format": 1,
+    "name": "A3",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailUrl": "app://fe44d6f5dd3d39fcf975e714442c496bc9ee/C:/Users/thennessey/Documents/repos/Pathfinder/atlas-vtt/assets/encounter-thumbnails/encounter-1793648600567.png?1793648600570",
+    "id": "encounter-1793648600591-i800z0",
+    "createdAt": 1793648600591,
+    "modifiedAt": 1793648600591,
+    "type": "encounter"
+  }
+}

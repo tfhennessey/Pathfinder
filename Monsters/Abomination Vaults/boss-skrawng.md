@@ -11,7 +11,7 @@ tags:
 statblock: inline
 name: Boss Skrawng
 level: 1
-image: atlas-vtt/collections/Default/tokens/Monsters/BOSS_SKRAWNG_1791920119867_k0rjsg.webp
+image: atlas-vtt/collections/Default/tokens/Monsters/Floor 1/BOSS_SKRAWNG_1791920119867_k0rjsg.webp
 ---
 ```statblock
 columns: 2

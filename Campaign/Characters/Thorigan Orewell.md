@@ -7,9 +7,8 @@ ancestry: Orc
 heritage: Deep Orc
 class: Fighter
 level: 1
-hp_max: "22"
-hp_current: "22"
 hp: "22"
+hp_current: "22"
 temp_hp: 0
 ac: "18"
 fort: "7"

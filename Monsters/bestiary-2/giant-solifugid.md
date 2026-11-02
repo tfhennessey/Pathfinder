@@ -8,7 +8,7 @@ tags:
 statblock: inline
 name: Giant Solifugid
 level: 1
-image: atlas-vtt/collections/Default/tokens/Monsters/Giant_solifugid_1791920119905_lgzcjo.webp
+image: atlas-vtt/collections/Default/tokens/Monsters/Floor 1/Giant_solifugid_1791920119905_lgzcjo.webp
 ---
 
 ```statblock

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 name: Flickerwisp
 level: 2
-image: atlas-vtt/collections/Default/tokens/Monsters/flickerwhips_1791920119755_1dzy33.webp
+image: atlas-vtt/collections/Default/tokens/Monsters/Floor 1/flickerwhips_1791920119755_1dzy33.webp
 ---
 ```statblock
 columns: 2

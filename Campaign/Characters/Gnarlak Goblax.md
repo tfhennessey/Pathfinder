@@ -7,7 +7,7 @@ ancestry: Goblin
 heritage: Dokkaebi Goblin
 class: Bard
 level: 1
-hp_max: "15"
+hp: "15"
 hp_current: "15"
 temp_hp: 0
 ac: "16"

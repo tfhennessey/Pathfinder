@@ -8,7 +8,7 @@ tags:
 statblock: inline
 name: Mitflit
 level: -1
-image: atlas-vtt/collections/Default/tokens/Monsters/miflet_1791913525040_1gwxrd.webp
+image: atlas-vtt/collections/Default/tokens/Monsters/Floor 1/miflet_1791913525040_1gwxrd.webp
 ---
 ![[mitflit.jpg.png]]
 ```statblock

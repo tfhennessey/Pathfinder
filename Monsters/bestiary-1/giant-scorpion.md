@@ -8,7 +8,7 @@ tags:
 statblock: inline
 name: Giant Scorpion
 level: 3
-image: atlas-vtt/collections/Default/tokens/Monsters/giant_scorpian_1791920119817_bchc67.webp
+image: atlas-vtt/collections/Default/tokens/Monsters/Floor 1/giant_scorpian_1791920119817_bchc67.webp
 ---
 
 ```statblock

@@ -4,7 +4,7 @@
     "type": "token",
     "showRing": true,
     "name": "corpselight",
-    "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/corpselight_1791920119778_d3uqyb.webp",
+    "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/Floor 1/corpselight_1791920119778_d3uqyb.webp",
     "collection": "Default",
     "tags": [
       "monster"
@@ -12,7 +12,7 @@
     "thumbnailPath": "atlas-vtt/assets/thumbnails/corpselight_1791920119778_d3uqyb-2fd225bc.webp",
     "id": "token-1791920120101-e4krgg",
     "createdAt": 1791920120101,
-    "modifiedAt": 1791920251389,
+    "modifiedAt": 1793650997387,
     "statblockPath": "Monsters/Abomination Vaults/Corpselight.md"
   }
 }

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 name: Corpselight
 level: 2
-image: atlas-vtt/collections/Default/tokens/Monsters/corpselight_1791920119778_d3uqyb.webp
+image: atlas-vtt/collections/Default/tokens/Monsters/Floor 1/corpselight_1791920119778_d3uqyb.webp
 ---
 ```statblock
 columns: 2
