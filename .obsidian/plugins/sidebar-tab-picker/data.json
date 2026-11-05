@@ -1,0 +1,59 @@
+{
+  "language": "en",
+  "items": [
+    {
+      "type": "git-view",
+      "name": "Source Control",
+      "icon": "git-pull-request",
+      "visible": true
+    },
+    {
+      "type": "initiative-tracker-view",
+      "name": "Initiative Tracker",
+      "icon": "initiative-tracker",
+      "visible": true
+    },
+    {
+      "type": "DICE_ROLLER_VIEW",
+      "name": "Dice Tray",
+      "icon": "dices",
+      "visible": false
+    },
+    {
+      "type": "tag",
+      "name": "Tags",
+      "icon": "lucide-tags",
+      "visible": false
+    },
+    {
+      "type": "all-properties",
+      "name": "All properties",
+      "icon": "lucide-archive",
+      "visible": false
+    },
+    {
+      "type": "outline",
+      "name": "Outline",
+      "icon": "lucide-list",
+      "visible": false
+    },
+    {
+      "type": "backlink",
+      "name": "Backlinks",
+      "icon": "links-coming-in",
+      "visible": false
+    },
+    {
+      "type": "outgoing-link",
+      "name": "Outgoing links",
+      "icon": "links-going-out",
+      "visible": false
+    },
+    {
+      "type": "initiative-tracker-creature-view",
+      "name": "Combatant",
+      "icon": "initiative-tracker-creature-view",
+      "visible": true
+    }
+  ]
+}

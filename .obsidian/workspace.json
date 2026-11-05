@@ -18,21 +18,21 @@
             }
           },
           {
-            "id": "e59704faea594709",
+            "id": "f9a9701565e61c80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-11-02.md",
+                "file": "Campaign/Characters/Callum Evermoore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-11-02"
+              "title": "Callum Evermoore"
             }
           },
           {
-            "id": "01cd08898049cc0e",
+            "id": "4db3694fad2d42b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,20 +43,6 @@
               },
               "icon": "lucide-file",
               "title": "Wrin Sivinxi"
-            }
-          },
-          {
-            "id": "b43e6173db1c3575",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign/Adventures/Abomination Vaults/Notes/Session 1 - 11-5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 1 - 11-5"
             }
           },
           {
@@ -72,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,108 +149,21 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
-          },
-          {
-            "id": "f83615c95ef3b96f",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "19654235ff36848e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Campaign/Adventures/Abomination Vaults/Notes/Session 1 - 11-5.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "d214c50c83959e84",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Campaign/Adventures/Abomination Vaults/Notes/Session 1 - 11-5.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "72e50678f506c7c3",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "34b80d2e08487310",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "1e9c7a02a612f025",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Campaign/Adventures/Abomination Vaults/Notes/Session 1 - 11-5.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
           }
         ]
       },
       {
-        "id": "42d7767e82140b12",
+        "id": "4ba15671499e4481",
         "type": "tabs",
         "children": [
           {
-            "id": "43e5e9ca2edd5480",
+            "id": "7f60a7a85e33f263",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_8bb8389a2938",
-                "creatureName": "Mitflit"
+                "creatureId": "ID_b8aa5bea6b69",
+                "creatureName": "Callum Moorewind"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -278,58 +177,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
+      "obsidian-5e-statblocks:Open Creature pane": false,
       "atlas-vtt:Display image on player view": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b43e6173db1c3575",
+  "active": "8e614fea65ea51b6",
   "lastOpenFiles": [
+    "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
+    "atlas-vtt/collections/Default/scenes/Abomination Vaults/level2.atlasmap",
     "Campaign/Adventures/Abomination Vaults/z_pdf/Pathfinder 2E - Abomination Vault - AP 1 of 3.pdf",
-    "Campaign/Adventures/Abomination Vaults/Notes/Session 1 - 11-5.md",
     "Campaign/NPCs/Wrin Sivinxi.md",
+    "Campaign/GM Screen.md",
     "Campaign/Adventures/Abomination Vaults/Servants' Quarters.md",
+    "atlas-vtt/collections/Default/tokens/token-1793885126280-asblsl.json",
+    "atlas-vtt/assets/thumbnails/Screenshot_2026_11_05_082330_1793885126014_ryawku-f002a6ab.webp",
+    "atlas-vtt/collections/Default/tokens/Monsters/Floor 1/Screenshot_2026_11_05_082330_1793885126014_ryawku.webp",
+    "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
+    "atlas-vtt/collections/Default/tokens/token-1793884346000-bkm5e7.json",
+    "atlas-vtt/assets/thumbnails/Screenshot_2026_11_05_081047_1793884345803_67j9of-60c587c1.webp",
+    "atlas-vtt/collections/Default/tokens/Monsters/Floor 1/Screenshot_2026_11_05_081047_1793884345803_67j9of.webp",
+    "atlas-vtt/collections/Default/tokens/token-1793884012652-wxbs9z.json",
+    "atlas-vtt/assets/thumbnails/artworks_1KUwqzoGF6PUMmqW_RsW3Ig_t1080x1080_1793884012522_uqi2m2-d2294efb.webp",
+    "atlas-vtt/collections/Default/tokens/Monsters/Floor 1/artworks_1KUwqzoGF6PUMmqW_RsW3Ig_t1080x1080_1793884012522_uqi2m2.webp",
+    "Campaign/Adventures/Abomination Vaults/Notes/Session 1 - 11-5.md",
     "Campaign/Adventures/Abomination Vaults/Notes",
     "Campaign/Adventures/Abomination Vaults/Library.md",
-    "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
     "Monsters/bestiary-3/abrikandilu.md",
     "Campaign/Characters/Jackson Anders.md",
     "2026-11-02.md",
     "Untitled 1.canvas",
-    "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
     "atlas-vtt/collections/Default/tokens/Monsters/Floor 1",
     "atlas-vtt/collections/Default/scenes/level 1 Gauntlight Ruins.atlasmap",
     "atlas-vtt/collections/Default/scenes/level 1 Gauntlight Ruins.thumb.jpg",
     "atlas-vtt/collections/Default/scenes/scene-1793649977456-mhq8gd.json",
     "Campaign/Adventures/Abomination Vaults/Maps/Otari.png",
     "Monsters/bestiary-2/vampiric-mist.md",
-    "atlas-vtt/collections/Default/encounters/encounter-1793648600591-i800z0.json",
     "atlas-vtt/assets/encounter-thumbnails/encounter-1793648600567.png",
     "Monsters/bestiary-1/slurk.md",
-    "atlas-vtt/collections/Default/encounters/encounter-1793648486124-esngck.json",
-    "atlas-vtt/collections/Default/encounters",
     "atlas-vtt/assets/encounter-thumbnails/encounter-1793648486091.png",
-    "atlas-vtt/assets/encounter-thumbnails",
-    "Campaign/Characters/Callum Moorewind.md",
+    "Campaign/Characters/Callum Evermoore.md",
     "Campaign/Adventures/Abomination Vaults/Art/Gauntlight Exterior.md",
     "Campaign/Characters/Elias Brightshield.md",
     "Campaign/Characters/Gnarlak Goblax.md",
     "Campaign/Characters/Thorigan Orewell.md",
-    "Pasted image 20261102133155.png",
-    "Pasted image 20261102131527.png",
-    "Campaign/GM Screen.md",
     "Rules/gamemastery-guide/chapter-1-gamemastery-basics.md",
     "Rules/traits/exploration.md",
-    "atlas-vtt/collections/Default/scenes/level2.thumb.jpg",
     "Monsters/bestiary-2/ahuizotl.md",
     "compendium/feats/able-ritualist-av2.md",
     "compendium/setting/domains.md",
@@ -337,9 +239,6 @@
     "Monsters/bestiary-1/adamantine-golem.md",
     "Rules/conditions.md",
     "Campaign/Party Dashboard.md",
-    "Untitled.canvas",
-    "atlas-vtt/collections/Default/scenes/Abomination Vaults/level2.thumb.jpg",
-    "atlas-vtt/assets/thumbnails/level2_1792589001551_jpu8c8-864caacf.webp",
-    "atlas-vtt/assets/level2_1792589001551_jpu8c8.webp"
+    "Untitled.canvas"
   ]
 }

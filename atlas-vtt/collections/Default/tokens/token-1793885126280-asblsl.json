@@ -1,0 +1,16 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Screenshot 2026 11 05 082330",
+    "imagePath": "atlas-vtt/collections/Default/tokens/Monsters/Floor 1/Screenshot_2026_11_05_082330_1793885126014_ryawku.webp",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Screenshot_2026_11_05_082330_1793885126014_ryawku-f002a6ab.webp",
+    "id": "token-1793885126280-asblsl",
+    "createdAt": 1793885126280,
+    "modifiedAt": 1793885145938,
+    "statblockPath": "Monsters/bestiary-2/brownie.md"
+  }
+}

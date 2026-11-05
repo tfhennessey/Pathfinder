@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
 noteType: pf2eMonster
-aliases: "Brownie"
-tags: 
+aliases: Brownie
+tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/1
 statblock: inline
-name: "Brownie"
+name: Brownie
 level: 1
+image: atlas-vtt/collections/Default/tokens/Monsters/Floor 1/Screenshot_2026_11_05_082330_1793885126014_ryawku.webp
 ---
 
 ```statblock

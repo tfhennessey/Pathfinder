@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
 noteType: pf2eMonster
-aliases: "Soulbound Doll"
-tags: 
+aliases: Soulbound Doll
+tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/2
 statblock: inline
-name: "Soulbound Doll"
+name: Soulbound Doll
 level: 2
+image: atlas-vtt/collections/Default/tokens/Monsters/Floor 1/Screenshot_2026_11_05_081047_1793884345803_67j9of.webp
 ---
 
 ```statblock
