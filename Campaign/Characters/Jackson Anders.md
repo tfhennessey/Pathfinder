@@ -2,7 +2,7 @@
 pc: true
 tags:
   - pc
-player:
+player: Zach
 ancestry: Human
 heritage: Versitile Human
 class: Cleric

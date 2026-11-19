@@ -2,7 +2,7 @@
 pc: true
 tags:
   - pc
-player:
+player: Tim
 ancestry: Human
 heritage: Nephilim
 class: Champion

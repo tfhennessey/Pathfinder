@@ -18,43 +18,129 @@
             }
           },
           {
-            "id": "f9a9701565e61c80",
+            "id": "95dcde3d92dee72d",
+            "type": "leaf",
+            "state": {
+              "type": "atlas-vtt",
+              "state": {
+                "file": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
+                "mapFilePath": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
+                "tabs": [
+                  {
+                    "id": "tab-1793932854880-oy90kx",
+                    "filePath": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
+                    "displayName": "level1",
+                    "isLoaded": true,
+                    "isDirty": false
+                  }
+                ],
+                "activeTabId": "tab-1793932854880-oy90kx",
+                "viewportPerTab": {
+                  "tab-1793932854880-oy90kx": {
+                    "centerX": 2498.10941672923,
+                    "centerY": 3523.0313425240174,
+                    "scale": 0.8993617925085661
+                  }
+                }
+              },
+              "icon": "map",
+              "title": "Atlas: level1.atlasmap"
+            }
+          },
+          {
+            "id": "4eb69f49901577b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Characters/Callum Evermoore.md",
-                "mode": "source",
+                "file": "compendium/spells/bane.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Callum Evermoore"
+              "title": "bane"
             }
           },
           {
-            "id": "4db3694fad2d42b8",
+            "id": "3b75f601b729d27a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/NPCs/Wrin Sivinxi.md",
+                "file": "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wrin Sivinxi"
+              "title": "Gauntlight Ruins"
             }
           },
           {
-            "id": "3d9569fc4dfbab27",
+            "id": "7ad92566bbe064f2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Campaign/Adventures/Abomination Vaults/z_pdf/Pathfinder 2E - Abomination Vault - AP 1 of 3.pdf"
+                "file": "Campaign/GM Screen.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Pathfinder 2E - Abomination Vault - AP 1 of 3"
+              "icon": "lucide-file",
+              "title": "GM Screen"
+            }
+          },
+          {
+            "id": "70575815a451dcf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/GM Screen.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GM Screen"
+            }
+          },
+          {
+            "id": "878c56669dd516a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Adventures/Abomination Vaults/Art/Gauntlight Exterior.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gauntlight Exterior"
+            }
+          },
+          {
+            "id": "3500b5f3f29b60f0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Campaign/Adventures/Abomination Vaults/Maps/Otari.png"
+              },
+              "icon": "lucide-image",
+              "title": "Otari"
+            }
+          },
+          {
+            "id": "6bba2c2b3374629b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gauntlight Ruins"
             }
           }
         ],
@@ -120,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "200a227e5cd50387",
@@ -162,8 +249,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_b8aa5bea6b69",
-                "creatureName": "Callum Moorewind"
+                "creatureId": "ID_ab28d94959aa",
+                "creatureName": "Mitflit"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -191,45 +278,93 @@
       "omnisearch:Omnisearch": false
     }
   },
+  "floating": {
+    "id": "26bf4d1b4955148b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "55b89d6db9080f67",
+        "type": "window",
+        "children": [
+          {
+            "id": "ada09cbf08d0de5b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b844c39d8e30f60e",
+                "type": "leaf",
+                "state": {
+                  "type": "atlas-vtt-local-player",
+                  "state": {
+                    "tabId": "tab-1793932854880-oy90kx",
+                    "filePath": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
+                    "frozen": false,
+                    "camera": {
+                      "centerX": 2498.10941672923,
+                      "centerY": 3523.0313425240174,
+                      "scale": 0.8993617925085661,
+                      "width": 1600.0234966467003,
+                      "height": 1105.2281832292008
+                    }
+                  },
+                  "icon": "presentation",
+                  "title": "Player view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 16,
+        "y": 10,
+        "width": 800,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "8e614fea65ea51b6",
   "lastOpenFiles": [
+    "compendium/spells/bane.md",
     "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
-    "atlas-vtt/collections/Default/scenes/Abomination Vaults/level2.atlasmap",
-    "Campaign/Adventures/Abomination Vaults/z_pdf/Pathfinder 2E - Abomination Vault - AP 1 of 3.pdf",
-    "Campaign/NPCs/Wrin Sivinxi.md",
+    "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
+    "Campaign/Adventures/Abomination Vaults/Maps/Otari.png",
     "Campaign/GM Screen.md",
+    "Campaign/Adventures/Abomination Vaults/Art/Gauntlight Exterior.md",
+    "Campaign/Party.base",
+    "Campaign/Party Dashboard.md",
+    "Campaign/NPCs/Wrin Sivinxi.md",
+    "Campaign/Characters/Thorigan Orewell.md",
+    "Campaign/Characters/Callum Evermoore.md",
+    "Campaign/Characters/Elias Brightshield.md",
+    "Campaign/Adventures/Abomination Vaults/z_pdf/Pathfinder 2E - Abomination Vault - AP 1 of 3.pdf",
+    "Campaign/Adventures/Abomination Vaults/Library.md",
+    "Campaign/Adventures/Abomination Vaults/Notes/Session 1 - 11-5.md",
+    "Campaign/Characters/Gnarlak Goblax.md",
+    "Campaign/Characters/Jackson Anders.md",
+    "atlas-vtt/collections/Default/scenes/Abomination Vaults/level2.atlasmap",
     "Campaign/Adventures/Abomination Vaults/Servants' Quarters.md",
     "atlas-vtt/collections/Default/tokens/token-1793885126280-asblsl.json",
     "atlas-vtt/assets/thumbnails/Screenshot_2026_11_05_082330_1793885126014_ryawku-f002a6ab.webp",
     "atlas-vtt/collections/Default/tokens/Monsters/Floor 1/Screenshot_2026_11_05_082330_1793885126014_ryawku.webp",
-    "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
     "atlas-vtt/collections/Default/tokens/token-1793884346000-bkm5e7.json",
     "atlas-vtt/assets/thumbnails/Screenshot_2026_11_05_081047_1793884345803_67j9of-60c587c1.webp",
     "atlas-vtt/collections/Default/tokens/Monsters/Floor 1/Screenshot_2026_11_05_081047_1793884345803_67j9of.webp",
     "atlas-vtt/collections/Default/tokens/token-1793884012652-wxbs9z.json",
     "atlas-vtt/assets/thumbnails/artworks_1KUwqzoGF6PUMmqW_RsW3Ig_t1080x1080_1793884012522_uqi2m2-d2294efb.webp",
     "atlas-vtt/collections/Default/tokens/Monsters/Floor 1/artworks_1KUwqzoGF6PUMmqW_RsW3Ig_t1080x1080_1793884012522_uqi2m2.webp",
-    "Campaign/Adventures/Abomination Vaults/Notes/Session 1 - 11-5.md",
     "Campaign/Adventures/Abomination Vaults/Notes",
-    "Campaign/Adventures/Abomination Vaults/Library.md",
     "Monsters/bestiary-3/abrikandilu.md",
-    "Campaign/Characters/Jackson Anders.md",
     "2026-11-02.md",
     "Untitled 1.canvas",
     "atlas-vtt/collections/Default/tokens/Monsters/Floor 1",
     "atlas-vtt/collections/Default/scenes/level 1 Gauntlight Ruins.atlasmap",
     "atlas-vtt/collections/Default/scenes/level 1 Gauntlight Ruins.thumb.jpg",
-    "atlas-vtt/collections/Default/scenes/scene-1793649977456-mhq8gd.json",
-    "Campaign/Adventures/Abomination Vaults/Maps/Otari.png",
     "Monsters/bestiary-2/vampiric-mist.md",
     "atlas-vtt/assets/encounter-thumbnails/encounter-1793648600567.png",
     "Monsters/bestiary-1/slurk.md",
     "atlas-vtt/assets/encounter-thumbnails/encounter-1793648486091.png",
-    "Campaign/Characters/Callum Evermoore.md",
-    "Campaign/Adventures/Abomination Vaults/Art/Gauntlight Exterior.md",
-    "Campaign/Characters/Elias Brightshield.md",
-    "Campaign/Characters/Gnarlak Goblax.md",
-    "Campaign/Characters/Thorigan Orewell.md",
     "Rules/gamemastery-guide/chapter-1-gamemastery-basics.md",
     "Rules/traits/exploration.md",
     "Monsters/bestiary-2/ahuizotl.md",
@@ -238,7 +373,6 @@
     "compendium/skills.md",
     "Monsters/bestiary-1/adamantine-golem.md",
     "Rules/conditions.md",
-    "Campaign/Party Dashboard.md",
     "Untitled.canvas"
   ]
 }
