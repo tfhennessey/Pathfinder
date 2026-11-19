@@ -21,30 +21,14 @@
             "id": "95dcde3d92dee72d",
             "type": "leaf",
             "state": {
-              "type": "atlas-vtt",
+              "type": "markdown",
               "state": {
-                "file": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
-                "mapFilePath": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
-                "tabs": [
-                  {
-                    "id": "tab-1793932854880-oy90kx",
-                    "filePath": "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
-                    "displayName": "level1",
-                    "isLoaded": true,
-                    "isDirty": false
-                  }
-                ],
-                "activeTabId": "tab-1793932854880-oy90kx",
-                "viewportPerTab": {
-                  "tab-1793932854880-oy90kx": {
-                    "centerX": 2498.10941672923,
-                    "centerY": 3523.0313425240174,
-                    "scale": 0.8993617925085661
-                  }
-                }
+                "file": "2026-11-02.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map",
-              "title": "Atlas: level1.atlasmap"
+              "icon": "lucide-file",
+              "title": "2026-11-02"
             }
           },
           {
@@ -206,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "200a227e5cd50387",
@@ -303,7 +286,7 @@
                       "centerX": 2498.10941672923,
                       "centerY": 3523.0313425240174,
                       "scale": 0.8993617925085661,
-                      "width": 1600.0234966467003,
+                      "width": 1266.4536224326557,
                       "height": 1105.2281832292008
                     }
                   },
@@ -324,10 +307,10 @@
       }
     ]
   },
-  "active": "8e614fea65ea51b6",
+  "active": "95dcde3d92dee72d",
   "lastOpenFiles": [
-    "compendium/spells/bane.md",
     "atlas-vtt/collections/Default/scenes/Abomination Vaults/level1.atlasmap",
+    "compendium/spells/bane.md",
     "Campaign/Adventures/Abomination Vaults/Gauntlight Ruins.md",
     "Campaign/Adventures/Abomination Vaults/Maps/Otari.png",
     "Campaign/GM Screen.md",
@@ -372,7 +355,6 @@
     "compendium/setting/domains.md",
     "compendium/skills.md",
     "Monsters/bestiary-1/adamantine-golem.md",
-    "Rules/conditions.md",
     "Untitled.canvas"
   ]
 }
